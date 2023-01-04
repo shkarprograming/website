@@ -1,0 +1,97 @@
+body{
+    background-color: rgb(139, 68, 68) ;
+    background-image: url(./img.png);
+}
+.shkar{
+    margin-left: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+    color: blueviolet;
+    background-color: rgb(122, 0, 0);
+    width: 42%;
+    border: 5px solid rgb(236, 233, 14);
+    font-style: italic;
+    margin-left: 400px;
+    
+}
+.shkar2{
+  margin-left: 900px ;
+  font-size: 20px
+
+}
+.facebook{
+    text-decoration: none;
+    text-align: center;
+    color: aliceblue;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    margin-top: 220px;
+    margin-left: center ;
+    margin: 40px;
+    border-radius: 60px;
+    font-style: italic;
+}
+.snapchat{
+    text-decoration: none;
+    text-align: center;
+    color: aliceblue;
+    background-color: rgb(189, 255, 6);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    margin: 40px;
+    border-radius: 60px;
+    font-style: italic;
+    
+}
+.amada{
+        background-color: rgba(238, 255, 0, 0.7);
+        text-align: center;
+        font-size: 30px;
+        border-radius: 60px;
+        color: red;
+        width: 800px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 200px;
+        border: 7px solid red;
+}
+.instagram{
+    color: black;
+    background-color: rgb(192, 27, 27);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-decoration: solid;
+    font-size: xx-large;
+    margin: 40px;
+    border-radius: 60px;
+    font-style: italic;
+}
+.raqam{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(187, 255, 0);
+    margin-right: 40px;
+
+}
+.number{
+    color: black;
+    background-color: rgb(192, 27, 27);
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    text-decoration: solid;
+    font-size: xx-large;
+    margin: 40px;
+    border-radius: 60px;
+    font-style: italic
+}

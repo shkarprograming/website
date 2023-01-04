@@ -1,0 +1,33 @@
+body{
+    background-color: blueviolet;
+    color: rgb(231, 252, 47);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 1000;
+    background-image: url(./img.png);
+    background-size: 500px;
+    
+}
+.naz{
+    color: rgb(20, 18, 18);
+    width: 200px;
+    height: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.shkar{
+    margin-right: 40px;
+    color: blueviolet;
+    background-color: rgb(122, 0, 0);
+    width: 350px;
+    border: 5px solid rgb(236, 233, 14);
+    font-style: italic;
+    margin-left: 30px;
+    padding: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
